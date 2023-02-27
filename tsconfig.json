@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "rootDir": "./src",
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "moduleResolution": "node",
+        // "lib": ["ES5"],
+    "target": "ES5",
+    "skipLibCheck": true,
+    "diagnostics": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
+  },
+}
